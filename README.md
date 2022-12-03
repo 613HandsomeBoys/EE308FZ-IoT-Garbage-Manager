@@ -29,7 +29,7 @@ Our project aims to establish an intelligent IoT garbage management system for u
 3. Shipei Zhang
 3. Jingjie Yu
 
-## Video Clip (EE308FZ初期演示视频)
+### Video Clip (EE308FZ初期演示视频)
 
 <left>
   <img src = "https://tva1.sinaimg.cn/large/008vxvgGly1h8pig1pmcqj31hy0u0wie.jpg" width = 70%>
@@ -41,7 +41,7 @@ The demo video for our project can be found here: [Demo video for IoT Garbage Ma
 
 *Update in 3rd Dec. 2022*
 
----
+
 
 ## Our pervious works 📝
 
@@ -55,7 +55,7 @@ The demo video for our project can be found here: [Demo video for IoT Garbage Ma
 
 [The oral presentation given in the IEEE CENIM conference can be accessed here.]( https://www.bilibili.com/video/BV1jv4y1S7VQ/?share_source=copy_web&vd_source=c8936a3bacfd65375f9e88b3bb9a12ba)
 
-## Honors and Awards
+### **Honors and Awards**
 
 *Dec 2022:* Our paper: An IoT Garbage Monitoring System for Effective Garbage Management, have been published in [IEEE CENIM 2022](http://cenim.its.ac.id/#pdfexpress ).
 
