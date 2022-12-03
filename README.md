@@ -1,19 +1,21 @@
-# EE308FZ: IoT Garbage Manager
-## **Overview of our project** 👨🏻‍💻
+# EE308FZ: IoT Garbage Manager (Group 05)
+## **Overview** 👨🏻‍💻
 
-Our project aims to establish an **intelligent IoT garbage management system** for urban communities——**Garbage Manager**.
+Our project aims to establish an intelligent IoT garbage management system for urban communities——**Garbage Manager**
 
-本项目致力于建立一个能与「智慧城市的可持续发展」、「市政垃圾的处理需求」有机结合的新型智能IoT垃圾监管系统——**"垃圾管理卫士"**。
-
-<left>
-  <img src = "https://tva1.sinaimg.cn/large/008vxvgGly1h8ok7krdrrj31mk0u0tel.jpg" width = 100%>
-</left>
-
-## **Our Team (Group 5)** 👋🏻
+本项目致力于建立一个能与「智慧城市的可持续发展」、「市政垃圾的处理需求」有机结合的新型智能IoT垃圾监管系统——**垃圾管理卫士**
 
 <left>
-  <img src = "https://tva1.sinaimg.cn/large/008vxvgGly1h8nfr0i9p9j30b40b4q38.jpg" width = 30%>
+  <img src = "https://tva1.sinaimg.cn/large/008vxvgGly1h8ok7krdrrj31mk0u0tel.jpg" width = 80%>
 </left>
+
+
+## **Our Team (Group 05)** 👋🏻
+
+<left>
+  <img src = "https://tva1.sinaimg.cn/large/008vxvgGly1h8nfr0i9p9j30b40b4q38.jpg" width = 24%>
+</left>
+
 
 ### Team members:
 
@@ -27,15 +29,31 @@ Our project aims to establish an **intelligent IoT garbage management system** f
 3. Shipei Zhang
 3. Jingjie Yu
 
+## Video Clip (EE308FZ初期演示视频)
+
+<left>
+  <img src = "https://tva1.sinaimg.cn/large/008vxvgGly1h8pig1pmcqj31hy0u0wie.jpg" width = 70%>
+</left>
+
+The demo video for our project can be found here: [Demo video for IoT Garbage Manager (Group 05)](https://www.bilibili.com/video/BV1314y1J7Ea)
+
+**项目选题答辩视频：[请点击此处链接查看！](https://www.bilibili.com/video/BV1314y1J7Ea)**
+
+*Update in 3rd Dec. 2022*
+
+---
+
 ## Our pervious works 📝
 
 <left>
-  <img src = "https://tva1.sinaimg.cn/large/008vxvgGly1h8ok3gxr2yj31i00u0dm7.jpg" width = 80%>
+  <img src = "https://tva1.sinaimg.cn/large/008vxvgGly1h8ok3gxr2yj31i00u0dm7.jpg" width = 70%>
 </left>
 
-[Our IEEE paper can be found here.](https://caihanlin.com/publications/)
+**The following are the achievements of our previous work since March 2022. And we will continue to improve our IoT system during this EE308FZ group project.**
 
-[Demo vedio for our pervious works can be accessed here.]( https://www.bilibili.com/video/BV1jv4y1S7VQ/?share_source=copy_web&vd_source=c8936a3bacfd65375f9e88b3bb9a12ba)
+[Our latest IEEE paper published in CENIM 2022 can be found here.](https://caihanlin.com/publications/)
+
+[The oral presentation given in the IEEE CENIM conference can be accessed here.]( https://www.bilibili.com/video/BV1jv4y1S7VQ/?share_source=copy_web&vd_source=c8936a3bacfd65375f9e88b3bb9a12ba)
 
 ## Honors and Awards
 
@@ -52,4 +70,3 @@ Our project aims to establish an **intelligent IoT garbage management system** f
 <img src="https://tva1.sinaimg.cn/large/008vxvgGly1h8ok9cl9gej31630u0dlt.jpg" width = 32%>
 <img src="https://tva1.sinaimg.cn/large/008vxvgGly1h8ok9a3v3dj317p0u043e.jpg" width = 32%>
 </div>
-
