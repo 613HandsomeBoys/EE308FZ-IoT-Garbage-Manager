@@ -29,6 +29,10 @@ Our project aims to establish an intelligent IoT garbage management system for u
 3. Shipei Zhang
 3. Jingjie Yu
 
+<left>
+  <img src = "https://tva1.sinaimg.cn/large/008vxvgGly1h8ng108t25j31400p0gu6.jpg" width = 70%>
+</left>
+
 ### Video Clip (EE308FZ初期演示视频)
 
 <left>
