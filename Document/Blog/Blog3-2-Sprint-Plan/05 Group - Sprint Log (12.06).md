@@ -50,9 +50,9 @@
 
 #### 4.1 Check-in Records of Github
 
-![img](https://img-community.csdnimg.cn/images/dd893bfc39f1472086b77a03571ce860.jpg "#left")
+![img](https://img-community.csdnimg.cn/images/bfd7dd46e5404f93a31b1324edffd94f.png "#left")
 
-
+![img](https://img-community.csdnimg.cn/images/f19b500f5af24d43bd37483b4577d408.png "#left")
 
 #### 4.2 Screenshots of the Operation
 
