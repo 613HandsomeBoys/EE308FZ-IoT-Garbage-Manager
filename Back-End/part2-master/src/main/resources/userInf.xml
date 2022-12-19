@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.demo.mapper.userInfMapper">
+    <!--插入新的垃圾信息-->
+
+    <update id="changeLevel">
+        update T_binList
+        set Blevel=#{level}
+        where PK_BID = #{id}
+    </update>
+
+    <select id="getOneBin" resultType="com.healthcare.entity.Bin">
+        select PK_BID      id,
+               Blatitude   latitude,
+               Blevel      level,
+               Bstate      state,
+               BotherThing otherThing,
+               Blongitude  longitude
+        from T_binList
+        where PK_BID = #{id}
+    </select>
+
+</mapper>
