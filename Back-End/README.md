@@ -1,2 +1,3 @@
 # IoT Garbage Manager: Back-End
-这里放后端代码
+PART1为主体部分
+PART2为硬件服务器部分
